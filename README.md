@@ -12,7 +12,7 @@ Before Downlaoding project please make sure to downlaod nodejs and visual studio
 npm install [it will donwlaod all dependencies ffrom package.json file because we are not added any **node_modules** in git]
 npx wdio. -> to execute tests
 
-**After successful execution run below commands to generate reports**
+**After successful execution run below commands to generate allure reports**
 
-allure generate --clean
-allure open
+allure generate --clean   //It will convert to HTML reports
+allure open                //It will open html reports in browser automatically
