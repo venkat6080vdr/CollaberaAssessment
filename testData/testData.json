@@ -1,0 +1,20 @@
+{
+    "Firstname":"TestFNN",
+    "Lastname":"TestLNN",
+    "Email":"TestAutomationgggggg134@gmail.com",
+    "Password":"test1@6080",
+    "Day_DOB":"22",
+    "Month_DOB":"5",
+    "Year_DOB":"1993",
+    "Company":"ABC Company",
+    "Address":"Guntur, Hyderabad",
+    "AddressLine2":"Andhra Pradesh",
+    "City":"Guntur",
+    "State":"California",
+    "ZipCode":"50000",
+    "Country":"United States",
+    "AdditionalInformation":"Automation Tester",
+    "HomePhone":"123456789",
+    "MobilePhone":"9944557788092",
+    "AddressAlias":"My Address will Assign"
+}

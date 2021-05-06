@@ -1,0 +1,11 @@
+[ {
+  "uid" : "254a3b3987c853d3",
+  "name" : "Register User and  Sign In and Add one product and validate",
+  "time" : {
+    "start" : 1620270155131,
+    "stop" : 1620270224289,
+    "duration" : 69158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

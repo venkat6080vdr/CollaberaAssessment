@@ -1,0 +1,334 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1620270155130' stop='1620270224290'>
+    <name>Register User and  Sign In and Add one product and validate</name>
+    <title>Register User and  Sign In and Add one product and validate</title>
+    <test-cases>
+        <test-case start='1620270155131' status='passed' stop='1620270224289'>
+            <name>Register User and  Sign In and Add one product and validate</name>
+            <title>Register User and  Sign In and Add one product and validate</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.93'/>
+            </parameters>
+            <steps>
+                <step start='1620270178958' status='passed' stop='1620270178958'>
+                    <name>Application url is launched</name>
+                    <title>Application url is launched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270178985' status='passed' stop='1620270178985'>
+                    <name>Wait for until SignIn Button Displayed</name>
+                    <title>Wait for until SignIn Button Displayed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270184929' status='passed' stop='1620270184929'>
+                    <name>Clicked on SignIn Button</name>
+                    <title>Clicked on SignIn Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270184952' status='passed' stop='1620270184952'>
+                    <name>Wait to display Create an Account Heading</name>
+                    <title>Wait to display Create an Account Heading</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270185104' status='passed' stop='1620270185104'>
+                    <name>Entered Email Address as TestAutomationgggggg134@gmail.com</name>
+                    <title>Entered Email Address as TestAutomationgggggg134@gmail.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270185153' status='passed' stop='1620270185153'>
+                    <name>Clicked on Create An Account Button</name>
+                    <title>Clicked on Create An Account Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188198' status='passed' stop='1620270188198'>
+                    <name>Successfully Validated Personal Information Heading is dispalyed </name>
+                    <title>Successfully Validated Personal Information Heading is dispalyed </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188239' status='passed' stop='1620270188239'>
+                    <name>Clicked on Mr Title Checkbox</name>
+                    <title>Clicked on Mr Title Checkbox</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188313' status='passed' stop='1620270188313'>
+                    <name>Entered First Name as TestFNN</name>
+                    <title>Entered First Name as TestFNN</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188367' status='passed' stop='1620270188367'>
+                    <name>Entered Last Name as TestLNN</name>
+                    <title>Entered Last Name as TestLNN</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188421' status='passed' stop='1620270188421'>
+                    <name>Entered Password as test1@6080</name>
+                    <title>Entered Password as test1@6080</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188478' status='passed' stop='1620270188478'>
+                    <name>Selected Day in DOB as 22</name>
+                    <title>Selected Day in DOB as 22</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188516' status='passed' stop='1620270188516'>
+                    <name>Selected Month in DOB as 5</name>
+                    <title>Selected Month in DOB as 5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188603' status='passed' stop='1620270188603'>
+                    <name>Selected Year in DOB as 1993</name>
+                    <title>Selected Year in DOB as 1993</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188642' status='passed' stop='1620270188642'>
+                    <name>Clicked on SignUp For Newletter checkbox</name>
+                    <title>Clicked on SignUp For Newletter checkbox</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188679' status='passed' stop='1620270188679'>
+                    <name>Clicked on Receive special Offers checkbox</name>
+                    <title>Clicked on Receive special Offers checkbox</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188750' status='passed' stop='1620270188750'>
+                    <name>Entered Company as ABC Company</name>
+                    <title>Entered Company as ABC Company</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188802' status='passed' stop='1620270188802'>
+                    <name>Entered Address as Guntur, Hyderabad</name>
+                    <title>Entered Address as Guntur, Hyderabad</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188855' status='passed' stop='1620270188855'>
+                    <name>Entered Address2 as Andhra Pradesh</name>
+                    <title>Entered Address2 as Andhra Pradesh</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188903' status='passed' stop='1620270188903'>
+                    <name>Entered City as Guntur</name>
+                    <title>Entered City as Guntur</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270188955' status='passed' stop='1620270188955'>
+                    <name>Selected State as California</name>
+                    <title>Selected State as California</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270189020' status='passed' stop='1620270189020'>
+                    <name>Entered ZipCode as 50000</name>
+                    <title>Entered ZipCode as 50000</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270189056' status='passed' stop='1620270189056'>
+                    <name>Entered Country as United States</name>
+                    <title>Entered Country as United States</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270189105' status='passed' stop='1620270189105'>
+                    <name>Entered AditionalInformation as Automation Tester</name>
+                    <title>Entered AditionalInformation as Automation Tester</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270189172' status='passed' stop='1620270189172'>
+                    <name>Entered HomePhone as 123456789</name>
+                    <title>Entered HomePhone as 123456789</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270189220' status='passed' stop='1620270189220'>
+                    <name>Entered MobilePhone as 9944557788092</name>
+                    <title>Entered MobilePhone as 9944557788092</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270189274' status='passed' stop='1620270189274'>
+                    <name>Entered Address Alias as My Address will Assign</name>
+                    <title>Entered Address Alias as My Address will Assign</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270197454' status='passed' stop='1620270197454'>
+                    <name>Clicked on Register Button</name>
+                    <title>Clicked on Register Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270203230' status='passed' stop='1620270203230'>
+                    <name>Clicked on SignOut Button</name>
+                    <title>Clicked on SignOut Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270203250' status='passed' stop='1620270203250'>
+                    <name>Wait until Email Address box should be visible</name>
+                    <title>Wait until Email Address box should be visible</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270203324' status='passed' stop='1620270203324'>
+                    <name>Entered Email as TestAutomationgggggg134@gmail.com</name>
+                    <title>Entered Email as TestAutomationgggggg134@gmail.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270203386' status='passed' stop='1620270203386'>
+                    <name>Entered Password as test1@6080</name>
+                    <title>Entered Password as test1@6080</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270208642' status='passed' stop='1620270208642'>
+                    <name>Clicked on SignIn Button</name>
+                    <title>Clicked on SignIn Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270208659' status='passed' stop='1620270208659'>
+                    <name>Wait until Sing Out link visible</name>
+                    <title>Wait until Sing Out link visible</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270208673' status='passed' stop='1620270208673'>
+                    <name>Wait for to display Customer AccountName</name>
+                    <title>Wait for to display Customer AccountName</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270208690' status='passed' stop='1620270208690'>
+                    <name>Account Name Get the Sign In User Account Name TestFNN TestLNN</name>
+                    <title>Account Name Get the Sign In User Account Name TestFNN TestLNN</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270208690' status='passed' stop='1620270208690'>
+                    <name>Successfully validated Login user Account Name as TestFNN TestLNN</name>
+                    <title>Successfully validated Login user Account Name as TestFNN TestLNN</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270215278' status='passed' stop='1620270215278'>
+                    <name>Clicked on Home Button</name>
+                    <title>Clicked on Home Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270215294' status='passed' stop='1620270215294'>
+                    <name>Wait until First Product Displayed</name>
+                    <title>Wait until First Product Displayed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270215307' status='passed' stop='1620270215307'>
+                    <name>Get the First Product Name ->Faded Short Sleeve T-shirts</name>
+                    <title>Get the First Product Name ->Faded Short Sleeve T-shirts</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270215326' status='passed' stop='1620270215326'>
+                    <name>Get the First Product Price ->$16.51</name>
+                    <title>Get the First Product Price ->$16.51</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270215387' status='passed' stop='1620270215387'>
+                    <name>Moved to First Product</name>
+                    <title>Moved to First Product</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270215430' status='passed' stop='1620270215430'>
+                    <name>Clicked on Add to Cart Button</name>
+                    <title>Clicked on Add to Cart Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270216973' status='passed' stop='1620270216973'>
+                    <name>Wait until to display ProceedToCheckout button</name>
+                    <title>Wait until to display ProceedToCheckout button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224216' status='passed' stop='1620270224216'>
+                    <name>Clicked on ProceedToCheckout Button</name>
+                    <title>Clicked on ProceedToCheckout Button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224232' status='passed' stop='1620270224232'>
+                    <name>Wait until to display ShoppingCart Summary Heading</name>
+                    <title>Wait until to display ShoppingCart Summary Heading</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224242' status='passed' stop='1620270224242'>
+                    <name>Successfully Validated ShoppingCart Summary Heading is dispalyed </name>
+                    <title>Successfully Validated ShoppingCart Summary Heading is dispalyed </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224255' status='passed' stop='1620270224255'>
+                    <name>Wait until to display Tab Summary</name>
+                    <title>Wait until to display Tab Summary</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224272' status='passed' stop='1620270224272'>
+                    <name>Get the ProductName in Cart ->Faded Short Sleeve T-shirts</name>
+                    <title>Get the ProductName in Cart ->Faded Short Sleeve T-shirts</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224289' status='passed' stop='1620270224289'>
+                    <name>Get the Pritce in Cart ->$16.51</name>
+                    <title>Get the Pritce in Cart ->$16.51</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224289' status='passed' stop='1620270224289'>
+                    <name>Successfully Validated  Product name -> Faded Short Sleeve T-shirts</name>
+                    <title>Successfully Validated  Product name -> Faded Short Sleeve T-shirts</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1620270224289' status='passed' stop='1620270224289'>
+                    <name>Successfully Validated  Product Price -> $16.51</name>
+                    <title>Successfully Validated  Product Price -> $16.51</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Register User and  Sign In and Add one product and validate",
+    "children" : [ {
+      "name" : "Register User and  Sign In and Add one product and validate",
+      "uid" : "254a3b3987c853d3",
+      "parentUid" : "378826d66ecc47a2dae82243ceeee198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620270155131,
+        "stop" : 1620270224289,
+        "duration" : 69158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "378826d66ecc47a2dae82243ceeee198"
+  } ]
+}

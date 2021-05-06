@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Register User and  Sign In and Add one product and validate",
+    "children" : [ {
+      "name" : "Register User and  Sign In and Add one product and validate",
+      "uid" : "254a3b3987c853d3",
+      "parentUid" : "3e82d486371d46e820b015ae2ae9f26e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620270155131,
+        "stop" : 1620270224289,
+        "duration" : 69158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.93" ]
+    } ],
+    "uid" : "3e82d486371d46e820b015ae2ae9f26e"
+  } ]
+}
